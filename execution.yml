@@ -9,5 +9,5 @@ scenarios:
    choose flight:
    requests:
    - label:blazedemo
-     method: GET
+     
      
