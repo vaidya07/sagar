@@ -8,6 +8,6 @@ execution:
 scenarios:
    choose flight:
    requests:
-   - label:blazedemo
+   
      
      
